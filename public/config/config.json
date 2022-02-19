@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0C4595317068CEe3F077f71e971FCB31Fd0629cC",
+  "SCAN_LINK": "https://polygonscan.com/address/0x0c4595317068cee3f077f71e971fcb31fd0629cc",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Poly Pythons",
+  "SYMBOL": "PPNFT",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/poly-pythons-collection",
+  "SHOW_BACKGROUND": true
+}
